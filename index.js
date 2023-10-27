@@ -98,7 +98,6 @@ Max observed unvalidated block height: ${extractValue(
   )}
 Local uptime: ${extractValue(data, "Local uptime")}
 Sync status: ${extractValue(data, "Sync status")}
-Catchup status: ${extractValue(data, "Catchup status")}
 Block producers running: ${extractValue(data, "Block producers running")}
 Coinbase receiver: ${extractValue(data, "Coinbase receiver")}
 Best tip consensus time: ${extractValue(data, "Best tip consensus time")}
